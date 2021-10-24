@@ -1,0 +1,68 @@
+{  "contacts": [
+  
+    {
+
+      "_id": 1,
+
+      "email": "taiwogboyegun#gmail.com",
+
+     "phone":"08101699085",
+
+      "name":"Gboyegun"
+  
+    },
+
+    {
+
+      "_id": 2,
+
+      "email": "ojo@gmail.com",
+
+     "phone":"07001699085",
+
+      "name":"abifade"
+  
+    },
+
+
+    {
+
+      "_id": 3,
+
+      "email": "kehinde@gmail.com",
+
+     "phone":"08109300325",
+
+      "name":"kehinde"
+  
+    },
+
+    {
+
+      "_id": 4,
+
+      "email": "smith@gmail.com",
+
+      "phone":"0700002032",
+
+      "name":"smith"
+
+
+    },
+
+    {
+
+      "_id": 5,
+
+      "email": "kehinde@gmail.com",
+
+     "phone":"08109300325",
+
+      "name":"kehinde"
+  
+    }
+
+
+  ]
+
+}
